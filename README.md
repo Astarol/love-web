@@ -15,7 +15,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>可以做我的女朋友吗？</title>
+    <title>可以成为我的恋人吗？</title>
     <style>
         body {
             display: flex;
@@ -91,7 +91,7 @@
     </style>
 </head>
 <body>
-    <h1>可以做我的女朋友吗？</h1>
+    <h1>可以成为我的恋人吗？</h1>
     <div class="buttons">
         <button id="yesButton">可以</button> 
         <button id="noButton">不可以</button> 

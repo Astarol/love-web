@@ -1,6 +1,7 @@
 <h1 align="center">❤一个不会被拒绝的表白的网页❤</h1>
 <p>随便做了一个告白的网页（还是无法拒绝的那种），不许骗人家妹妹，哒咩！感情到了才可以表白哦~</p>
-<img src="https://github.com/user-attachments/assets/aee2fcbd-76ff-4756-a9d3-bb0aff2e45fb" alt="告白网页截图">
+<img src="https://github.com/user-attachments/assets/a1d5ad21-00d0-4c97-9885-63c27573666f" alt="告白网页截图">
+
 <p>不可以是不可以按的，不许拒绝我，按了它就会跑到其他地方去</p>
 <img src="https://github.com/user-attachments/assets/79d9fbb4-123e-4876-91f7-5b92de0c9402" alt="按钮效果截图">
 <p>爱心做了动效，还做了樱花落下的特效，是不是还挺唯美的~</p>

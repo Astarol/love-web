@@ -1,5 +1,5 @@
 <h1 align="center">❤一个帮助你向喜欢的人表白的网页❤</h1>
-<p>随便做了一个告白的网页（还是无法拒绝的那种），不许骗人家妹妹，打咩！感情到了才可以表白哦~</p>
+<p>随便做了一个告白的网页（还是无法拒绝的那种），不许骗人家妹妹，哒咩！感情到了才可以表白哦~</p>
 <img src="https://github.com/user-attachments/assets/e398f30e-14d3-4d17-85a3-9984ebcfc36d" alt="告白网页截图">
 <p>不可以是不可以按的，不许拒绝我，按了它就会跑到其他地方去</p>
 <img src="https://github.com/user-attachments/assets/79d9fbb4-123e-4876-91f7-5b92de0c9402" alt="按钮效果截图">
